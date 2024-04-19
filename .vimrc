@@ -5,11 +5,11 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
     " let Vundle manage Vundle, required
     Plugin 'VundleVim/Vundle.vim'
-	Plugin 'ctrlpvim/ctrlp.vim'
-	Plugin 'tpope/vim-vinegar'
-	Plugin 'tpope/vim-surround'
-	Plugin 'preservim/nerdtree'
-    Plugin 'mattn/emmet-vim'
+	" Plugin 'ctrlpvim/ctrlp.vim'
+	" Plugin 'tpope/vim-vinegar'
+	" Plugin 'tpope/vim-surround'
+	" Plugin 'preservim/nerdtree'
+    " Plugin 'mattn/emmet-vim'
     
 call vundle#end()            " required
 filetype plugin indent on    " required
