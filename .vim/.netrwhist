@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/anis/Code'
+let g:netrw_dirhist_4='/home/anis/Code/c_or_cpp'
+let g:netrw_dirhist_3='/home/anis/Code'
+let g:netrw_dirhist_2='/home/anis/Code/python_basic'
+let g:netrw_dirhist_1='/home/anis/Code'
+let g:netrw_dirhist_0='/home/anis/Code/text'
+let g:netrw_dirhist_9='/home/anis/Code'
+let g:netrw_dirhist_8='/home/anis/Code/python_basic'
+let g:netrw_dirhist_7='/home/anis/Code'
+let g:netrw_dirhist_6='/home/anis/Code/text'
