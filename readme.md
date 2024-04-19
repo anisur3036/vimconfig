@@ -21,7 +21,7 @@ filetype plugin indent on    " required
 download color scheme for below website to the ```.vim/colors/``` folder
 
 ```bash 
-https://raw.githubusercontent.com/gosukiwi/vim-atom-dark/master/colors/atom-dark-256.vim
+wget https://raw.githubusercontent.com/gosukiwi/vim-atom-dark/master/colors/atom-dark-256.vim
 ```
 
 ```bash
